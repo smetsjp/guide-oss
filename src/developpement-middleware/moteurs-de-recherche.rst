@@ -87,6 +87,8 @@ Autres
 Parmi les produits de l’univers Moteurs de recherche, on peut compléter la liste avec les outils ci-dessous :
 
 
+- Mroonga:     http://mroonga.github.com/
+
 - Nutch:	http://nutch.apache.org
 
 - Sphinx:	http://sphinxsearch.com
